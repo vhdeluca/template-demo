@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vhdeluca/template-demo.svg?branch=master)](https://travis-ci.org/vhdeluca/template-demo)
+
 # [`template-demo`]
 > Simple project description.
 
